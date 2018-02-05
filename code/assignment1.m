@@ -13,13 +13,13 @@ vth = sqrt((boltzmann)*300/(restmass*0.26));
 
 
 global Q1;
-Q1 = false;
+Q1 = true;
 
 global Q2;
 Q2 = false;
 
 global Q3;
-Q3 = true;
+Q3 = false;
 
 TotalTime = 1000;
 global numElectrons;
